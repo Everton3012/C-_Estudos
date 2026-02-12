@@ -1,0 +1,14 @@
+C:\repositorios\C#_Estudos\fundamentos\bin\Debug\net9.0\MeuProjeto.exe
+C:\repositorios\C#_Estudos\fundamentos\bin\Debug\net9.0\MeuProjeto.deps.json
+C:\repositorios\C#_Estudos\fundamentos\bin\Debug\net9.0\MeuProjeto.runtimeconfig.json
+C:\repositorios\C#_Estudos\fundamentos\bin\Debug\net9.0\MeuProjeto.dll
+C:\repositorios\C#_Estudos\fundamentos\bin\Debug\net9.0\MeuProjeto.pdb
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.AssemblyInfoInputs.cache
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.AssemblyInfo.cs
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.csproj.CoreCompileInputs.cache
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.dll
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\refint\MeuProjeto.dll
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.pdb
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\MeuProjeto.genruntimeconfig.cache
+C:\repositorios\C#_Estudos\fundamentos\obj\Debug\net9.0\ref\MeuProjeto.dll

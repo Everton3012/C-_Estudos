@@ -1,0 +1,14 @@
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\bin\Debug\net9.0\Aula01_HelloWorld.exe
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\bin\Debug\net9.0\Aula01_HelloWorld.deps.json
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\bin\Debug\net9.0\Aula01_HelloWorld.runtimeconfig.json
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\bin\Debug\net9.0\Aula01_HelloWorld.dll
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\bin\Debug\net9.0\Aula01_HelloWorld.pdb
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.AssemblyInfoInputs.cache
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.AssemblyInfo.cs
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.dll
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\refint\Aula01_HelloWorld.dll
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.pdb
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\Aula01_HelloWorld.genruntimeconfig.cache
+C:\repositorios\C#_Estudos\fundamentos\Aula01_HelloWorld\obj\Debug\net9.0\ref\Aula01_HelloWorld.dll
