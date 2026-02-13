@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Atrobuindo valores para boolean e char");
+﻿Console.WriteLine("Atribuindo valores para boolean e char");
 Console.WriteLine();
 //declarando variaveis
 bool ativo = true;

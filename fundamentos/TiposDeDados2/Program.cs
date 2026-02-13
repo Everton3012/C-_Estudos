@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Atrobuindo valores a double, float e decimal");
+﻿Console.WriteLine("Atribuindo valores a double, float e decimal");
 Console.WriteLine();
 //declarando variaveis
 double valor1 = 1.234;
