@@ -10,7 +10,6 @@
             int? numero3 = null;
             double? numero4 = null;
 
-
             System.Console.WriteLine("Valor do numero: " + numero);
             System.Console.WriteLine("Valor do numero: " + numero2);
             //System.Console.WriteLine("Valor do numero: " + palavra);
@@ -42,8 +41,6 @@
             {
                 System.Console.WriteLine("d é nulo");
             }
-
-
         }
     }
 }
